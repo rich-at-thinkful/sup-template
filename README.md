@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rich-at-thinkful/sup-template.svg?branch=master)](https://travis-ci.org/rich-at-thinkful/sup-template)
+
 # Sup - a messaging API
 
 Sup is a simple messaging API.  Users can be created, updated, edited, and deleted.  Messages can be sent between any two users of Sup.
